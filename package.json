@@ -4,11 +4,11 @@
   "description": "TextMate Grammar that highlights tags 5e Tools' special JSON data storage type.",
   "icon": "images/5e-tools-logo.png",
   "repository": {
-    "url": "https://github.com/Jklein64/5e-syntax.git"
+    "url": "https://github.com/revilowaldow/5e-syntax.git"
   },
-  "publisher": "Tree",
+  "publisher": "revilowaldow",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.50.0"
   },
